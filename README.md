@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joana Silva</h1>
-<h3 align="center">And im an frontend dev from Brazil</h3>
+<h3 align="center">And im an frontend deveveloper from Brazil</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joana.devfront@gmail.com**
 
-- ⚡ Fun fact **I have 15 cats and 3 dogs **
+- ⚡ Fun fact **I have 9 cats and 3 dogs **
 
 - ✨ I’m currently in career transition and looking for a placement in the development area.
 <br>
